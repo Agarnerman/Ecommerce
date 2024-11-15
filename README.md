@@ -1,8 +1,17 @@
-# Ecommerce
-Project created with Ruby on Rails. The main features of this project are the following:
-*Authentication
-*Admin dashboard with Chart.js graph
-*Admin PMS (Project Management System)
-*Local storage based Cart
-*User storefront
-*User Checkout with Stripe
+# eCommerce Project
+A Ruby on Rails application for online shopping.
+
+## Features
+-Authentication: Secure user login and registration.
+-Admin Dashboard:
+  -Comprehensive overview of store performance.
+  -Interactive charts powered by Chart.js.
+-Admin Project Management System (PMS):
+  -Efficiently manage and track projects.
+-Local Storage Cart:
+  -Convenient product storage, even without an active session.
+-User Storefront:
+  -Intuitive product browsing and search.
+  -Detailed product information and reviews.
+-User Checkout with Stripe:
+  -Secure and seamless payment processing.
