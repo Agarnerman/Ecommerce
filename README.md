@@ -2,7 +2,7 @@
 A Ruby on Rails application for online shopping.
 
 ## Features
--Authentication: Secure user login and registration.
+- Authentication: Secure user login and registration.
 -Admin Dashboard:
   -Comprehensive overview of store performance.
   -Interactive charts powered by Chart.js.
